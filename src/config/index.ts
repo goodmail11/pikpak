@@ -1,6 +1,5 @@
 export const proxy = [
-  'https://pikpak.995579.xyz',
-  'https://pikpak.tjsky.top'
+  'pk.good-2222.workers.dev'
 ]
 
 export const version = '1.27.1'
